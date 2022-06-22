@@ -1,0 +1,42 @@
+.wrapp {
+margin-left: 30%;
+width: 40%;
+
+}
+.namePrice {
+width: 40%;
+margin-left: 31%;
+}
+.create {
+ background-color: chartreuse;
+ color: white;
+ border-color: chartreuse;
+ margin-left: 32%;
+  font-size: 150%;
+  margin-top: 10%;
+}
+big {
+  display: flex;
+margin-left: 31%;
+}
+.detals {
+  background-color: white;
+  border-color:cadetblue;
+  color:cadetblue;
+  box-shadow: none;
+margin-top: 20px;
+margin-left: 60%;
+font-size: 200%;
+
+}
+.add {
+  margin-left: 65%;
+  box-shadow: 5px 5px 5px gray;
+  width: 200px;
+  height: 65px;
+}
+
+.delete {
+  color: red;
+
+}
